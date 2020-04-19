@@ -3,5 +3,7 @@ import React from 'react';
 // import { Container } from './styles';
 
 export default function page404() {
-  return <div />;
+  return (
+    <h2>START</h2>
+  )
 }
